@@ -25,7 +25,7 @@
 ### Fire Alarm Detection System for IoT Hand Band   | 2024-2025 | Ongoing Project
 - I developed an intelligent fire alarm detection system designed for IoT bands used by disabled employees in a factory setting. The system ensures accurate emergency response by distinguishing fire alarms from other industrial sounds such as ambulances, fire trucks, and dangerous machinery alerts. This innovation enhances safety by minimizing false alarms and improving real-time hazard detection.
   
-![image](https://github.com/KaushiML3/portfolio/blob/main/assets/fritzband.png)
+![image](assets/fritzband.png)
 
 - Technologies Used
 1. **Deep Learning Architectures:** Custom CNN models, YAMNet, Wav2Vec
