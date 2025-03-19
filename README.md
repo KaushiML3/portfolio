@@ -2,6 +2,7 @@
 
 ## ACADEMIC BACKGROUND
  * * *
+ 
 #### Graduated in Faculty of Applied Sciences (Physical Science) Wayamba University of Sri Lanka. (2020)
 - Electronics
 - Mathematics & Mathematical Modelling and Statistics
@@ -10,6 +11,7 @@
 
 ## WORK EXPERIENCE
 * * *
+
 **Associate Machine Learning Engineer @ SilverlineIT | 2024-Oct to Present**
 - Developed the 94% accurate fire alarm detection system was developed for IoT hand band used by disabled workers in a factory.
 - Developed automates bill data extraction and enables intelligent querying using AI.
@@ -18,14 +20,18 @@
 - Big impacted to develop a safety camera system that detects adults and children while analyzing children's behavior.
 - Big impacted to develop a sentiment analysis and automated reply to system for a shopping app.
 
+
 ## Frameworks and Tools
 * * *
+
 ![image](assets/tools2.jpg)
 
 ## Projects
 * * *
-### Fire Alarm Detection System for IoT Hand Band   | 2024-2025 | Ongoing Project
+### **_SilverlineIT  |  Associate Machine Learning Engineer  |  2024 Oct – Present_**
+#### Fire Alarm Detection System for IoT Hand Band   | 2024-2025 | Ongoing Project
 - I developed an intelligent fire alarm detection system designed for IoT bands used by disabled employees in a factory setting. The system ensures accurate emergency response by distinguishing fire alarms from other industrial sounds such as ambulances, fire trucks, and dangerous machinery alerts. This innovation enhances safety by minimizing false alarms and improving real-time hazard detection.
+- 
 <img src="assets/fritzband.png" width="300">
 
 - Technologies Used
@@ -40,4 +46,19 @@
   - **Robust Deployment:** The system was successfully deployed on AWS Elastic Beanstalk for testing, ensuring scalability and real-world applicability.
 This end-to-end solution integrates deep learning and IoT to create a safer and smarter factory environment.
 
+#### Bill Data Extraction & AI-Powered Query System | 2024| 
+- This project automates the extraction of bill data and enables intelligent querying using AI, streamlining the process of managing and querying invoice and receipt information.
+  - **Bill Information Extraction:** Utilizes AWS Textract to automatically extract structured data from invoices and receipts, ensuring accurate and efficient data extraction.
+  - **Vector Database Storage:** Stores the extracted information in a vector database, enabling fast and efficient retrieval of bill data based on user queries.
+  - **AI-Powered Querying:** Integrates LangChain with an LLM (OpenAI/Gemini or local LLM) to process and answer user queries related to the stored bill data.
+  - **Deployment & Delivery:** The system is deployed using AWS Bedrock and AWS Textract to enhance the AI-powered query capabilities and ensure seamless delivery of the project.
+ 
+<img src="assets/bill data.png" height="300">
 
+- Technologies Used:
+  - **AWS Textract:** For automated bill data extraction.
+  - **LangChain:** For connecting the LLM with the vector database to handle queries.
+  - **AWS Bedrock:** To power the AI functionality in the system.
+  - **Vector Databases:** To efficiently store and retrieve structured bill data.
+  - **FastAPI:** For building a fast, scalable API to interact with the system.
+  - **Python:** For scripting and backend development.
