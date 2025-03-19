@@ -39,11 +39,8 @@
 This end-to-end solution integrates deep learning and IoT to create a safer and smarter factory environment.
 
 
-<div style="display: flex; justify-content: space-between;">
-    <p style="width: 45%;">This is the paragraph on the **left side**.</p>
-    <p style="width: 45%;">  - **Deep Learning Architectures:** Custom CNN models, YAMNet, Wav2Vec
-  - **Audio Processing Techniques:** Spectrogram, Mel Spectrogram, MFCCs
-  - **Frameworks & Tools:** TensorFlow, PyTorch, FastAPI
-  - **Deployment:** AWS Elastic Beanstalk*.</p>
+<div style="display: flex; align-items: center;">
+    <img src="assets/fritzband.png" alt="Image" width="300" style="margin-right: 20px;">
+    <p>This is a paragraph describing the image. You can add more details about your work, project, or any relevant information here.</p>
 </div>
 
