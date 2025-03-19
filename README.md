@@ -1,15 +1,15 @@
 ![image](assets/Gemini_Generated_Image_ts35xkts35xkts353.jpeg)
 
-## ACADEMIC BACKGROUND
+# ACADEMIC BACKGROUND
  * * *
  
-#### Graduated in Faculty of Applied Sciences (Physical Science) Wayamba University of Sri Lanka. (2020)
+### Graduated in Faculty of Applied Sciences (Physical Science) Wayamba University of Sri Lanka. (2020)
 - Electronics
 - Mathematics & Mathematical Modelling and Statistics
 - Computing & Information Systems
   
 
-## WORK EXPERIENCE
+# WORK EXPERIENCE
 * * *
 
 **Associate Machine Learning Engineer @ SilverlineIT | 2024-Oct to Present** 
@@ -28,15 +28,15 @@
 - I work at a geo survey company where I am responsible for maintaining and servicing all electronic devices and electronic infrastructure. This includes ensuring the functionality, performance, and longevity of equipment used for various surveying and geospatial tasks
 
 
-## Frameworks and Tools
+# Frameworks and Tools
 * * *
 
 ![image](assets/tools2.jpg)
 
-## Projects
+# Projects
 * * *
-### **_SilverlineIT  |  Associate Machine Learning Engineer  |  2024 Oct – Present_** 
-#### Fire Alarm Detection System for IoT Hand Band   | 2024-2025 | Ongoing Project 
+## **_SilverlineIT  |  Associate Machine Learning Engineer  |  2024 Oct – Present_** 
+### Fire Alarm Detection System for IoT Hand Band   | 2024-2025 | Ongoing Project 
 - I developed an intelligent fire alarm detection system designed for IoT bands used by disabled employees in a factory setting. The system ensures accurate emergency response by distinguishing fire alarms from other industrial sounds such as ambulances, fire trucks, and dangerous machinery alerts. This innovation enhances safety by minimizing false alarms and improving real-time hazard detection.
 - 
 <img src="assets/fritzband.png" width="300">
@@ -53,7 +53,7 @@
   - **Robust Deployment:** The system was successfully deployed on AWS Elastic Beanstalk for testing, ensuring scalability and real-world applicability.
 This end-to-end solution integrates deep learning and IoT to create a safer and smarter factory environment.
 
-#### Bill Data Extraction & AI-Powered Query System | 2024 | 
+### Bill Data Extraction & AI-Powered Query System | 2024 | 
 - This project automates the extraction of bill data and enables intelligent querying using AI, streamlining the process of managing and querying invoice and receipt information.
   - **Bill Information Extraction:** Utilizes AWS Textract to automatically extract structured data from invoices and receipts, ensuring accurate and efficient data extraction.
   - **Vector Database Storage:** Stores the extracted information in a vector database, enabling fast and efficient retrieval of bill data based on user queries.
@@ -70,4 +70,4 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
   - **FastAPI:** For building a fast, scalable API to interact with the system.
   - **Python:** For scripting and backend development.
 
-#### 	Children and Adults Detection for Safety Camera System | 2024 |
+### 	Children and Adults Detection for Safety Camera System | 2024 |
