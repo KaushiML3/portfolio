@@ -38,3 +38,12 @@
 3. **Robust Deployment:** The system was successfully deployed on AWS Elastic Beanstalk for testing, ensuring scalability and real-world applicability.
 This end-to-end solution integrates deep learning and IoT to create a safer and smarter factory environment.
 
+
+<div style="display: flex; justify-content: space-between;">
+    <p style="width: 45%;">This is the paragraph on the **left side**.</p>
+    <p style="width: 45%;">  - **Deep Learning Architectures:** Custom CNN models, YAMNet, Wav2Vec
+  - **Audio Processing Techniques:** Spectrogram, Mel Spectrogram, MFCCs
+  - **Frameworks & Tools:** TensorFlow, PyTorch, FastAPI
+  - **Deployment:** AWS Elastic Beanstalk*.</p>
+</div>
+
