@@ -16,7 +16,7 @@
 - Developed the 94% accurate fire alarm detection system was developed for IoT hand band used by disabled workers in a factory.
 - Developed automates bill data extraction and enables intelligent querying using AI.
 
-**Training Machine Learning Engineer @ SilverlineIT | 2024-Oct to Present**
+**Training Machine Learning Engineer @ SilverlineIT | 2023-Oct to 2024-Oct**
 - Big impacted to develop a safety camera system that detects adults and children while analyzing children's behavior.
 - Big impacted to develop a sentiment analysis and automated reply to system for a shopping app.
   
@@ -26,9 +26,6 @@
   
 **Geoinformatics International (Pvt) Ltd	 | Assistan service Engineer | 2020 May-2021 Feb**
 - I work at a geo survey company where I am responsible for maintaining and servicing all electronic devices and electronic infrastructure. This includes ensuring the functionality, performance, and longevity of equipment used for various surveying and geospatial tasks
-
-
-
 
 
 ## Frameworks and Tools
