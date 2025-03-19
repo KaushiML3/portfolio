@@ -19,3 +19,23 @@
 ## Frameworks and Tools
 
 ![image](assets/tools2.jpg)
+
+## Projects
+
+### Fire Alarm Detection System for IoT Hand Band   | 2024-2025 | Ongoing Project
+- I developed an intelligent fire alarm detection system designed for IoT bands used by disabled employees in a factory setting. The system ensures accurate emergency response by distinguishing fire alarms from other industrial sounds such as ambulances, fire trucks, and dangerous machinery alerts. This innovation enhances safety by minimizing false alarms and improving real-time hazard detection.
+  
+![image](https://github.com/KaushiML3/portfolio/blob/main/assets/fritzband.png)
+
+- Technologies Used
+**Deep Learning Architectures:** Custom CNN models, YAMNet, Wav2Vec
+**Audio Processing Techniques:** Spectrogram, Mel Spectrogram, MFCCs
+**Frameworks & Tools:** TensorFlow, PyTorch, FastAPI
+**Deployment:** AWS Elastic Beanstalk
+
+- Project Impact
+**High-Accuracy Models:** Developed three custom deep learning models achieving over 93% accuracy, three YAMNet models exceeding 95% accuracy, and a Wav2Vec-based model with a loss rate of less than 10%.
+**Real-Time Safety Enhancement:** Enables quick and reliable detection of fire alarms to protect disabled employees.
+**Robust Deployment:** The system was successfully deployed on AWS Elastic Beanstalk for testing, ensuring scalability and real-world applicability.
+This end-to-end solution integrates deep learning and IoT to create a safer and smarter factory environment.
+
