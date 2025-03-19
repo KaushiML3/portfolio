@@ -29,13 +29,19 @@
 
 - Technologies Used
 **Deep Learning Architectures:** Custom CNN models, YAMNet, Wav2Vec
+  
 **Audio Processing Techniques:** Spectrogram, Mel Spectrogram, MFCCs
+
 **Frameworks & Tools:** TensorFlow, PyTorch, FastAPI
+
 **Deployment:** AWS Elastic Beanstalk
 
 - Project Impact
 **High-Accuracy Models:** Developed three custom deep learning models achieving over 93% accuracy, three YAMNet models exceeding 95% accuracy, and a Wav2Vec-based model with a loss rate of less than 10%.
+  
 **Real-Time Safety Enhancement:** Enables quick and reliable detection of fire alarms to protect disabled employees.
+
 **Robust Deployment:** The system was successfully deployed on AWS Elastic Beanstalk for testing, ensuring scalability and real-world applicability.
+
 This end-to-end solution integrates deep learning and IoT to create a safer and smarter factory environment.
 
