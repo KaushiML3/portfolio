@@ -1,6 +1,6 @@
 # Machine Learning Engineer
 
-![image]((https://github.com/KaushiML3/portfolio/blob/main/assets/dp.jpg)
+![image](https://github.com/KaushiML3/portfolio/blob/main/assets/dp.jpg)
 
 ## ACADEMIC BACKGROUND
 #### Graduated in Faculty of Applied Sciences (Physical Science) Wayamba University of Sri Lanka. (2020)
