@@ -22,7 +22,6 @@
   
 **Browns Engineering & constructions (Pvt) Ltd | Electronic and Telecommunication Assistant Engineer | 2021 Mar -2022 Nov**
 - In my role, I am responsible for managing both active and passive operations within the Dialog Network Service, ensuring continuous, seamless service.| Dialog progect - Progect Mannager |
-- My responsibilities span 24 hours a day, ensuring that both network services and infrastructure are always operational and any issues are promptly addressed.| Dialog progect - Progect Mannager |
 - I managed the development and implementation of the fiber network in the Central and UVA regions, overseeing the planning, deployment, and optimization of infrastructure to enhance connectivity and network performance | Fiber progect - Assistant Engineer |
   
 **Geoinformatics International (Pvt) Ltd	 | Assistan service Engineer | 2020 May-2021 Feb**
