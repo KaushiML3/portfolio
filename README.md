@@ -1,6 +1,6 @@
 # Machine Learning Engineer
 
-![image](assets/Gemini_Generated_Image_ts35xkts35xkts35.jpeg)
+![image](assets/dp.jpg)
 
 ## ACADEMIC BACKGROUND
 #### Graduated in Faculty of Applied Sciences (Physical Science) Wayamba University of Sri Lanka. (2020)
@@ -20,4 +20,4 @@
 
 ## Frameworks and Tools
 
-![image](assets/pexels-earano-1312488.jpg)
+![image](assets/tools2.jpg)
