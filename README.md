@@ -20,11 +20,11 @@
 - Big impacted to develop a safety camera system that detects adults and children while analyzing children's behavior.
 - Big impacted to develop a sentiment analysis and automated reply to system for a shopping app.
   
-**Browns Engineering & constructions (Pvt) Ltd | Electronic and Telecommunication Assistant Engineer | 2021 Mar -2022 Nov**
+**Electronic and Telecommunication Assistant Engineer @ Browns Engineering & constructions (Pvt) Ltd | 2021 Mar -2022 Nov**
 - In my role, I am responsible for managing both active and passive operations within the Dialog Network Service, ensuring continuous, seamless service.| Dialog progect - Progect Mannager |
 - I managed the development and implementation of the fiber network in the Central and UVA regions, overseeing the planning, deployment, and optimization of infrastructure to enhance connectivity and network performance | Fiber progect - Assistant Engineer |
   
-**Geoinformatics International (Pvt) Ltd	 | Assistan service Engineer | 2020 May-2021 Feb**
+**Assistan service Engineer @ Geoinformatics International (Pvt) Ltd | 2020 May-2021 Feb**
 - I work at a geo survey company where I am responsible for maintaining and servicing all electronic devices and electronic infrastructure. This includes ensuring the functionality, performance, and longevity of equipment used for various surveying and geospatial tasks
 
 
