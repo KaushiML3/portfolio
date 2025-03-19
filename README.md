@@ -29,10 +29,10 @@
 <img src="assets/fritzband.png" width="300">
 - Technologies Used
   
-* **Deep Learning Architectures:** Custom CNN models, YAMNet, Wav2Vec
-* **Audio Processing Techniques:** Spectrogram, Mel Spectrogram, MFCCs
-* **Frameworks & Tools:** TensorFlow, PyTorch, FastAPI
-* **Deployment:** AWS Elastic Beanstalk
+  - **Deep Learning Architectures:** Custom CNN models, YAMNet, Wav2Vec
+  - **Audio Processing Techniques:** Spectrogram, Mel Spectrogram, MFCCs
+  - **Frameworks & Tools:** TensorFlow, PyTorch, FastAPI
+  - **Deployment:** AWS Elastic Beanstalk
 
 - Project Impact
 1. **High-Accuracy Models:** Developed three custom deep learning models achieving over 93% accuracy, three YAMNet models exceeding 95% accuracy, and a Wav2Vec-based model with a loss rate of less than 10%.
