@@ -263,3 +263,15 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
   </tr>
 </table>
 
+
+<h2>📞 Contact Information</h2>
+<ul>
+  <li><b>Mobile 1:</b> 075 6774827</li>
+  <li><b>Mobile 2:</b> 076 5292208</li>
+  <li><b>Email:</b> <a href="mailto:kaushigihan@gmail.com">kaushigihan@gmail.com</a></li>
+  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></li>
+  <li><b>GitHub:</b> <a href="https://github.com/yourgithub" target="_blank">GitHub Profile</a></li>
+  <li><b>Kaggle:</b> <a href="https://www.kaggle.com/yourkaggle" target="_blank">Kaggle Profile</a></li>
+  <li><b>Hugging Face:</b> <a href="https://huggingface.co/yourhuggingface" target="_blank">Hugging Face Profile</a></li>
+</ul>
+
