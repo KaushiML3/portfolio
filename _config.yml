@@ -2,7 +2,8 @@ title: Kaushika Gihan Rupasinghe
 logo: assets/dp.jpg
 description: I am a Machine Learning Engineer with a strong background in Computer Vision, Natural Language Processing (NLP), Large Language Models (LLMs).
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-dinky
 #jekyll-theme-minimal
 #jekyll-theme-architect
 #jekyll-theme-midnight
+#jekyll-theme-dinky
