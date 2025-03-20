@@ -93,13 +93,6 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
   </tr>
 </table>
 
-- **Technologies Used:** YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.
-- **Project Impact:** Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.
-- **Demo project Github Repository:** [Click Here](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
-
-
-
-
 ### Sentiment Analysis & Automated Reply System for Shopping App |2024|
 - Developed an AI-powered sentiment analysis and automated reply system for a shopping app to enhance customer interaction and support. The system analyzes customer feedback in real time, classifies sentiments (positive, neutral, negative), and triggers automated responses based on sentiment categories. By leveraging a fine-tuned DistilBERT model, the system ensures high accuracy in understanding customer emotions and delivering relevant responses. This solution improves customer satisfaction, reduces response time, and optimizes customer engagement.
 
