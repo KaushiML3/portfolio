@@ -73,9 +73,6 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 ## **_Silverline IT | Training Machine Learning Engineer | 2023 Oct - 2024 Oct_**
 ### 	Children and Adults Detection for Safety Camera System | 2024 |
 - Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes spaces. Using state-of-the-art deep learning models, the system accurately identifies individuals and behaviors, reducing safety risks and enabling timely interventions.
-- 
-<img src="assets/collage_chidren.png" height="300">
-
-- **Technologies Used:** YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning
+<img src="assets/collage_chidren.png" height="300">- **Technologies Used:** YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning
 - **Project Impact:** Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.
 - **Demo project Github Repository:** [Use this link](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
