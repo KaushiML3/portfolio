@@ -81,16 +81,16 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 - **Demo project Github Repository:** [Use this link](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
 
 
-<p align="left">
-  <img src="assets/collage_chidren.png" width="300" alt="Safety Camera System">
-</p>
-<p align="right">
-  <b>Enhanced Safety Camera System for Real-Time Detection of Adults and Children</b><br><br>
-  Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. 
-  The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes, schools, and public spaces. 
-  Using state-of-the-art deep learning models, the system accurately identifies individuals and behaviors, reducing safety risks and enabling timely interventions.
-  <br><br>
-  <b>Technologies Used:</b> YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.
-  <br><br>
-  <b>Impact:</b> Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="assets/collage_chidren.png" width="300" alt="Safety Camera System" style="margin-right: 20px;">
+  <p>
+    <b>Enhanced Safety Camera System for Real-Time Detection of Adults and Children</b><br><br>
+    Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. 
+    The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes, schools, and public spaces. 
+    Using state-of-the-art deep learning models, the system accurately identifies individuals and behaviors, reducing safety risks and enabling timely interventions.
+    <br><br>
+    <b>Technologies Used:</b> YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.
+    <br><br>
+    <b>Impact:</b> Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.
+  </p>
+</div>
