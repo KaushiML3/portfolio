@@ -81,12 +81,15 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
       Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. 
       The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes, schools, and public spaces. 
       Using state-of-the-art deep learning models, the system accurately identifies individuals and behaviors, reducing safety risks and enabling timely interventions.
-     <b> Technologies Used:</b>
-     <b>  YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.</b>
-     <b> </b>
-     <b> Project Impact:</b>
-     <b>  Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.</b>
-     <b> </b>
+     <br><br>
+     <b> Technologies Used:</b><br>
+     <br><br>
+     <b>  YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.</b><br>
+     <br><br>
+     <b> Project Impact:</b><br>
+     <br><br>
+     <b>  Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.</b><br>
+     <br><br>
      <b> Demo project Github Repository:</b><a href="https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr" target="_blank">Click Here</a>
     </td>
   </tr>
