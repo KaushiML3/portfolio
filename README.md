@@ -84,7 +84,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/collage_chidren.png" width="100%" alt="Safety Camera System">
+      <img src="assets/collage_chidren.png" width="300" alt="Safety Camera System">
     </td>
     <td width="50%">
       Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. 
