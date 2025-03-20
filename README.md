@@ -83,7 +83,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="assets/collage_chidren.png" width="300" alt="Safety Camera System">
     </td>
     <td width="50%">
