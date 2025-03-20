@@ -130,22 +130,22 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main)
 
+
 #### Multilabel Classification CNN and Vision-Transformer 
 
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
-    <td width="60%" align="center">
+    <td width="75%" align="center">
       <img src="assets/sliglip.png" width="100%" alt="Safety Camera System">
     </td>
-    <td width="40%" valign="top">
+    <td width="25%" valign="top">
               This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image                         classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
-     <br> </br>
-     <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main" target="_blank">Click Here</a>
     </td>
-
-   
   </tr>
 </table>
+
+- **Github Repository:**[Click Here](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main)
+
 
 #### Tranfer Learning - Vision Transformer: 
 
@@ -160,15 +160,16 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Suspicious URL Detection:** A model that detects malicious or suspicious URLs, enhancing security by identifying potential phishing attempts or harmful websites.
 - **Obfuscated JavaScript Detection:** A tool to analyze and detect obfuscated JavaScript code, helping to identify potentially malicious scripts in web applications.
 
-  
 <img src="assets/spam_language (1).gif" height="400">
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Simple-NLP-projects/tree/main)
 - **Hugging face space:**[Click Here](https://huggingface.co/spaces/KaushiGihan/simple_language_and_spam_message_detection)
 
+
 #### Transformer Language translation 
 -This repository contains a Transformer-based language translation model trained to translate Portuguese to English. The implementation follows a simplified approach using TensorFlow/Keras and includes a Jupyter Notebook demonstrating training on a small dataset for quick experimentation
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Transformer_Language-translation)
+
 
 ### Audio and other
 #### Numerical audio authentication system Deep learning.
@@ -179,15 +180,15 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
     </td>
     <td width="40%" valign="top">
               This project implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
-     <br> </br>
-     <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning" target="_blank">Click Here</a>
     </td>
-
-   
   </tr>
 </table>
 
-#### Deepfake voice detection  
+- **Github Repository:**[Click Here](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning)
+
+
+#### Deepfake voice detection 
+
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
     <td width="75%" align="center">
@@ -195,19 +196,18 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
     </td>
     <td width="25%" valign="top">
               This project contains a machine learning-based system to detect deepfake (synthetic) voices. The system utilizes audio feature extraction techniques such as YAMNet and deep learning models (ANN, CNN, RNN) to differentiate between real and fake audio.
-     <br> 
-     <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet" target="_blank">Click Here</a>
-     <br>
-     <b>Hugging face Space:</b> <a href="https://huggingface.co/spaces/KaushiGihan/Deepfake_audio_detection_yamnet" target="_blank">Click Here</a>
     </td>
-
-   
   </tr>
 </table>
+
+- **Github Repository:**[Click Here](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet)
+- **Hugging face space:**[Click Here](https://huggingface.co/spaces/KaushiGihan/Deepfake_audio_detection_yamnet)
+
 
 #### libfinder
 - libfinder is a simple Python package that helps check if a library is installed in your python jupyter environment.
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/libfinder)
+
 
 #### AWS Elastic beanstalk _EC2_ECR-Demo
 - This repository contains the source code and deployment configuration for simple python app, a web-based platform for project management. The application is hosted on AWS, leveraging the power of cloud infrastructure for scalability, reliability, and performance
