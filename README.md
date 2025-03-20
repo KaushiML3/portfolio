@@ -96,6 +96,8 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 
 ### Sentiment Analysis & Automated Reply System for Shopping App |2024|
 - Developed an AI-powered sentiment analysis and automated reply system for a shopping app to enhance customer interaction and support. The system analyzes customer feedback in real time, classifies sentiments (positive, neutral, negative), and triggers automated responses based on sentiment categories. By leveraging a fine-tuned DistilBERT model, the system ensures high accuracy in understanding customer emotions and delivering relevant responses. This solution improves customer satisfaction, reduces response time, and optimizes customer engagement.
+  
+[Watch Video](assets/sentiment.mp4)
 
 - Technologies Used
   - **DistilBERT:** Lightweight transformer-based model for sentiment classification
