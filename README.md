@@ -121,7 +121,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 #### cucumber leaf diseases classification
 
 - Cucumber leaves are susceptible to various diseases, primarily fungal and bacterial. Common issues include powdery mildew, which forms white, powdery spots on leaves, and downy mildew, characterized by yellow patches and a fuzzy underside. Anthracnose causes dark, sunken spots on leaves and fruit, while angular leaf spot results in water-soaked lesions that become angular and brown.Bacterial wilt, spread by cucumber beetles, causes leaves to wilt and die. Proper spacing, crop rotation, and the use of resistant varieties can help manage these diseases, along with timely fungicide or bactericide applications.
-- 
+  
 <img src="assets/cucumber.png" height="400">
   
 - Technologies Used
@@ -134,3 +134,16 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main)
 
+#### Multilabel Classification CNN and Vision-Transformer 
+
+<table cellspacing="0" cellpadding="0"  border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/sliglip.pngassets/sliglip.png" width="100%" alt="Safety Camera System">
+    </td>
+    <td width="50%" valign="top">
+              This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image     classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
+
+    </td>
+  </tr>
+</table>
