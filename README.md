@@ -112,9 +112,9 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 - **Demo project Hugging face space:** [Click Here](https://huggingface.co/spaces/KaushiGihan/distilbert-base-uncased-sentiment_analysis_LLM)
     
 ## Personal and R&D projects
-### Computer vision 
+## Computer vision 
 
-#### cucumber leaf diseases classification
+### cucumber leaf diseases classification
 
 - Cucumber leaves are susceptible to various diseases, primarily fungal and bacterial. Common issues include powdery mildew, which forms white, powdery spots on leaves, and downy mildew, characterized by yellow patches and a fuzzy underside. Anthracnose causes dark, sunken spots on leaves and fruit, while angular leaf spot results in water-soaked lesions that become angular and brown.Bacterial wilt, spread by cucumber beetles, causes leaves to wilt and die. Proper spacing, crop rotation, and the use of resistant varieties can help manage these diseases, along with timely fungicide or bactericide applications.
   
@@ -131,7 +131,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main)
 
 
-#### Multilabel Classification CNN and Vision-Transformer 
+### Multilabel Classification CNN and Vision-Transformer 
 
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
@@ -147,14 +147,14 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main)
 
 
-#### Tranfer Learning - Vision Transformer: 
+### Tranfer Learning - Vision Transformer: 
 
 - Vision Transformers (ViTs) are a type of neural network architecture designed primarily for processing images. Unlike traditional convolutional neural networks (CNNs), which process images in a hierarchical manner, ViTs apply self-attention mechanisms to capture global dependencies between image patches. This allows them to achieve strong performance on various computer vision tasks without relying on convolutional layers. ViTs have gained popularity for their ability to handle long-range dependencies effectively, making them suitable for tasks like image classification, object detection, and segmentation. The original Vision Transformer developed by Google. It divides images into patches, processes them as tokens, and applies transformer layers.This repository include how to fine tune the vision transformer model.
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Vision_Transformer_Transfer_Learning)
 
 
-### Natural Language Processing
-#### Simple NLP projects
+## Natural Language Processing
+### Simple NLP projects
 - **Language Detection:** A model that identifies the language of a given text, enabling automated localization and multilingual processing.
 - **Spam Message Detection:** A system that classifies messages as spam or not, helping to filter unwanted content and improve communication efficiency.
 - **Suspicious URL Detection:** A model that detects malicious or suspicious URLs, enhancing security by identifying potential phishing attempts or harmful websites.
@@ -166,13 +166,13 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Hugging face space:**[Click Here](https://huggingface.co/spaces/KaushiGihan/simple_language_and_spam_message_detection)
 
 
-#### Transformer Language translation 
+### Transformer Language translation 
 -This repository contains a Transformer-based language translation model trained to translate Portuguese to English. The implementation follows a simplified approach using TensorFlow/Keras and includes a Jupyter Notebook demonstrating training on a small dataset for quick experimentation
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Transformer_Language-translation)
 
 
-### Audio and other
-#### Numerical audio authentication system Deep learning.
+## Audio and other
+### Numerical audio authentication system Deep learning.
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
     <td width="75%" align="center">
@@ -187,7 +187,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning)
 
 
-#### Deepfake voice detection 
+### Deepfake voice detection 
 
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
@@ -204,11 +204,11 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Hugging face space:**[Click Here](https://huggingface.co/spaces/KaushiGihan/Deepfake_audio_detection_yamnet)
 
 
-#### libfinder
+### libfinder
 - libfinder is a simple Python package that helps check if a library is installed in your python jupyter environment.
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/libfinder)
 
 
-#### AWS Elastic beanstalk _EC2_ECR-Demo
+### **AWS Elastic beanstalk _EC2_ECR-Demo**
 - This repository contains the source code and deployment configuration for simple python app, a web-based platform for project management. The application is hosted on AWS, leveraging the power of cloud infrastructure for scalability, reliability, and performance
 - - **Github Repository:**[Click Here](https://github.com/KaushiML3/AWS_Elastic_beanstalk_EC2_ECR_Demo)
