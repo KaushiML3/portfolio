@@ -142,7 +142,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
     </td>
     <td width="55%" valign="top">
               This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image                         classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
-     <b> </b>
+     <br> </br>
      <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main" target="_blank">Click Here</a>
     </td>
 
@@ -175,3 +175,19 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 ### Audio and other
 #### Numerical audio authentication system Deep learning.
+- This repository implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
+
+<table cellspacing="0" cellpadding="0"  border="0">
+  <tr>
+    <td width="75%" align="center">
+      <img src="assets/audio_auth (1).gif" width="100%" alt="Safety Camera System">
+    </td>
+    <td width="25%" valign="top">
+              This repository implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
+     <br> </br>
+     <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning" target="_blank">Click Here</a>
+    </td>
+
+   
+  </tr>
+</table>
