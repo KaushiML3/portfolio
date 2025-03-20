@@ -132,17 +132,9 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 
 ### Multilabel Classification CNN and Vision-Transformer 
-
-<table cellspacing="0" cellpadding="0"  border="0">
-  <tr>
-    <td width="75%" align="center">
-      <img src="assets/sliglip.png" width="100%" alt="Safety Camera System">
-    </td>
-    <td width="25%" valign="top">
-              This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image                         classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
-    </td>
-  </tr>
-</table>
+- This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image                         classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
+- 
+<img src="assets/sliglip.png" height="400">
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main)
 
@@ -173,32 +165,17 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 ## 🤖 Audio and other
 ### Numerical audio authentication system Deep learning.
-<table cellspacing="0" cellpadding="0"  border="0">
-  <tr>
-    <td width="75%" align="center">
-      <img src="assets/audio_auth (1).gif" width="100%" alt="Safety Camera System">
-    </td>
-    <td width="25%" valign="top">
-              This project implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
-    </td>
-  </tr>
-</table>
+- This project implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
+  
+<img src="assets/audio_auth (1).gif" height="400">
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning)
 
 
 ### Deepfake voice detection 
-
-<table cellspacing="0" cellpadding="0"  border="0">
-  <tr>
-    <td width="75%" align="center">
-      <img src="assets/deepfake.gif" width="100%" alt="Safety Camera System">
-    </td>
-    <td width="25%" valign="top">
-              This project contains a machine learning-based system to detect deepfake (synthetic) voices. The system utilizes audio feature extraction techniques such as YAMNet and deep learning models (ANN, CNN, RNN) to differentiate between real and fake audio.
-    </td>
-  </tr>
-</table>
+- This project contains a machine learning-based system to detect deepfake (synthetic) voices. The system utilizes audio feature extraction techniques such as YAMNet and deep learning models (ANN, CNN, RNN) to differentiate between real and fake audio.
+  
+<img src="assets/deepfake.gif" height="400">
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet)
 - **Hugging face space:**[Click Here](https://huggingface.co/spaces/KaushiGihan/Deepfake_audio_detection_yamnet)
