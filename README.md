@@ -228,7 +228,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
     <th>Other</th>
   </tr>
   <tr>
-    <td>
+    <td style="padding:10px; vertical-align:top;">
       • LSTM, BiLSTM, GRU <br>
       • BERT <br>
       • T5 <br>
@@ -237,7 +237,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
       • spaCy <br>
       • Hugging Face <br>
     </td>
-    <td>
+    <td style="padding:10px; vertical-align:top;">
       • CNN 2D <br>
       • VGG16 <br>
       • ResNet50 <br>
@@ -247,13 +247,13 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
       • Faster R-CNN <br>
       • SSD <br>
     </td>
-    <td>
+    <td style="padding:10px; vertical-align:top;">
       • YamNet <br>
       • Wav2Vec <br>
       • Whisper <br>
       • Kaldi <br>
     </td>
-    <td>
+    <td style="padding:10px; vertical-align:top;">
       • EasyOCR <br>
       • Keras OCR <br>
       • Tesseract OCR <br>
