@@ -175,10 +175,10 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 #### Numerical audio authentication system Deep learning.
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
-    <td width="60%" align="center">
+    <td width="75%" align="center">
       <img src="assets/audio_auth (1).gif" width="100%" alt="Safety Camera System">
     </td>
-    <td width="40%" valign="top">
+    <td width="25%" valign="top">
               This project implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
     </td>
   </tr>
