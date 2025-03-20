@@ -81,12 +81,12 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 - **Demo project Github Repository:** [Use this link](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
 
 
-<table style="width:100%;">
+<table>
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="assets/collage_chidren.png" width="300%" alt="Safety Camera System">
+    <td width="50%">
+      <img src="assets/collage_chidren.png" width="100%" alt="Safety Camera System">
     </td>
-    <td style="width: 50%;">
+    <td width="50%">
       <b>Enhanced Safety Camera System for Real-Time Detection of Adults and Children</b><br><br>
       Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. 
       The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes, schools, and public spaces. 
