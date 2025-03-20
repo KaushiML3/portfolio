@@ -78,7 +78,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 
 - **Technologies Used:** YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.
 - **Project Impact:** Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.
-- **Demo project Github Repository:** [Use this link](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
+- **Demo project Github Repository:** [Click Here](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
 
 
 <table cellspacing="0" cellpadding="0"  border="0">
@@ -111,3 +111,26 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 - Project Impact
   - Fine-tuned the DistilBERT model using LoRA, improving sentiment classification accuracy with efficient parameter updates.
   - Optimized real-time sentiment detection, enabling instant automated responses to customer feedback.
+   
+- **Demo project Github Repository:** [Click Here](https://github.com/KaushiML3/Fine-tuning-a-LLM-for-sentiment-analysis)
+- **Demo project Hugging face space:** [Click Here](https://huggingface.co/spaces/KaushiGihan/distilbert-base-uncased-sentiment_analysis_LLM)
+    
+## Personal and R&D projects
+### Computer vision 
+
+#### cucumber leaf diseases classification
+
+- Cucumber leaves are susceptible to various diseases, primarily fungal and bacterial. Common issues include powdery mildew, which forms white, powdery spots on leaves, and downy mildew, characterized by yellow patches and a fuzzy underside. Anthracnose causes dark, sunken spots on leaves and fruit, while angular leaf spot results in water-soaked lesions that become angular and brown.Bacterial wilt, spread by cucumber beetles, causes leaves to wilt and die. Proper spacing, crop rotation, and the use of resistant varieties can help manage these diseases, along with timely fungicide or bactericide applications.
+- 
+<img src="assets/cucumber.png" height="400">
+  
+- Technologies Used
+  - **Custom CNN Architecture** – Designed a specialized deep learning model for disease classification
+  - **VGG16 :** Leveraged a pre-trained model for feature extraction and enhanced accuracy
+  - **Computer Vision:**  Image processing for disease identification
+  - **Deep Learning (TensorFlow/Keras):**  Training and fine-tuning the model for classification
+    
+Developed a custom architecture and fine-tuned VGG16, improving disease detection accuracy.Enabled early disease identification, helping farmers take preventive action and reduce crop loss.
+
+- **Github Repository:**[Click Here](https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main)
+
