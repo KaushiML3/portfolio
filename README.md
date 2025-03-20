@@ -96,15 +96,15 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 
 ### Sentiment Analysis & Automated Reply System for Shopping App |2024|
 - Developed an AI-powered sentiment analysis and automated reply system for a shopping app to enhance customer interaction and support. The system analyzes customer feedback in real time, classifies sentiments (positive, neutral, negative), and triggers automated responses based on sentiment categories. By leveraging a fine-tuned DistilBERT model, the system ensures high accuracy in understanding customer emotions and delivering relevant responses. This solution improves customer satisfaction, reduces response time, and optimizes customer engagement.
-  
+
 - Technologies Used
- - **DistilBERT:** Lightweight transformer-based model for sentiment classification
- - **LoRA (Low-Rank Adaptation):** Efficient fine-tuning technique for optimizing DistilBERT
- - **Hugging Face Transformers:** Model training, fine-tuning, and deployment
- - **NLP (Natural Language Processing):** Text analysis and sentiment detection
- - **Python:** Backend implementation and integration
- - **FastAPI:** Lightweight API framework for deploying sentiment analysis and automated responses
+  - **DistilBERT:** Lightweight transformer-based model for sentiment classification
+  - **LoRA (Low-Rank Adaptation):** Efficient fine-tuning technique for optimizing DistilBERT
+  - **Hugging Face Transformers:** Model training, fine-tuning, and deployment
+  - **NLP (Natural Language Processing):** Text analysis and sentiment detection
+  - **Python:** Backend implementation and integration
+  - **FastAPI:** Lightweight API framework for deploying sentiment analysis and automated responses
 
 - Project Impact
- - Fine-tuned the DistilBERT model using LoRA, improving sentiment classification accuracy with efficient parameter updates.
- - Optimized real-time sentiment detection, enabling instant automated responses to customer feedback.
+  - Fine-tuned the DistilBERT model using LoRA, improving sentiment classification accuracy with efficient parameter updates.
+  - Optimized real-time sentiment detection, enabling instant automated responses to customer feedback.
