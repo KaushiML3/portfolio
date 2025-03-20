@@ -84,7 +84,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 <table style="width:100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="assets/collage_chidren.png" width="100%" alt="Safety Camera System">
+      <img src="assets/collage_chidren.png" width="300" alt="Safety Camera System">
     </td>
     <td style="width: 50%;">
       <b>Enhanced Safety Camera System for Real-Time Detection of Adults and Children</b><br><br>
