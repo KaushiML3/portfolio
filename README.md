@@ -134,10 +134,10 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
-    <td width="75%" align="center">
+    <td width="60%" align="center">
       <img src="assets/sliglip.png" width="100%" alt="Safety Camera System">
     </td>
-    <td width="55%" valign="top">
+    <td width="40%" valign="top">
               This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image                         classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
      <br> </br>
      <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main" target="_blank">Click Here</a>
@@ -174,10 +174,10 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 #### Numerical audio authentication system Deep learning.
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
-    <td width="75%" align="center">
+    <td width="60%" align="center">
       <img src="assets/audio_auth (1).gif" width="100%" alt="Safety Camera System">
     </td>
-    <td width="25%" valign="top">
+    <td width="40%" valign="top">
               This project implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
      <br> </br>
      <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning" target="_blank">Click Here</a>
@@ -190,10 +190,10 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 #### Deepfake voice detection  
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
-    <td width="75%" align="center">
+    <td width="60%" align="center">
       <img src="assets/deepfake.gif" width="100%" alt="Safety Camera System">
     </td>
-    <td width="25%" valign="top">
+    <td width="40%" valign="top">
               This project contains a machine learning-based system to detect deepfake (synthetic) voices. The system utilizes audio feature extraction techniques such as YAMNet and deep learning models (ANN, CNN, RNN) to differentiate between real and fake audio.
      <br> </br>
      <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet" target="_blank">Click Here</a>
