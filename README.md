@@ -81,7 +81,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 - **Demo project Github Repository:** [Use this link](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
 
 
-<table  border="0">
+<table cellspacing="0" cellpadding="0"  border="0">
   <tr>
     <td width="50%" align="center">
       <img src="assets/collage_chidren.png" width="300" alt="Safety Camera System">
