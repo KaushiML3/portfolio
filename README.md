@@ -190,14 +190,14 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 #### Deepfake voice detection  
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
-    <td width="60%" align="center">
+    <td width="75%" align="center">
       <img src="assets/deepfake.gif" width="100%" alt="Safety Camera System">
     </td>
-    <td width="40%" valign="top">
+    <td width="25%" valign="top">
               This project contains a machine learning-based system to detect deepfake (synthetic) voices. The system utilizes audio feature extraction techniques such as YAMNet and deep learning models (ANN, CNN, RNN) to differentiate between real and fake audio.
-     <br> </br>
+     <br> 
      <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet" target="_blank">Click Here</a>
-     <br> </br>
+     <br>
      <b>Hugging face Space:</b> <a href="https://huggingface.co/spaces/KaushiGihan/Deepfake_audio_detection_yamnet" target="_blank">Click Here</a>
     </td>
 
