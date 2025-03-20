@@ -28,12 +28,12 @@
 - I work at a geo survey company where I am responsible for maintaining and servicing all electronic devices and electronic infrastructure. This includes ensuring the functionality, performance, and longevity of equipment used for various surveying and geospatial tasks
 
 
-# Frameworks and Tools
+# FRAMEWORKS AND TOOLS
 * * *
 
 ![image](assets/tools2.jpg)
 
-# Projects
+# PROJECTS
 * * *
 ## **_SilverlineIT  |  Associate Machine Learning Engineer  |  2024 Oct – Present_** 
 ### Fire Alarm Detection System for IoT Hand Band   | 2024-2025 | Ongoing Project 
@@ -194,7 +194,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 
 
-# Used Model and Architectures
+# USED MODEL AND ARCHITECTURES
 * * *
 
 <table>
@@ -241,11 +241,11 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 </table>
 
 
-<h2> 🌐 Contact Information</h2>
+<h2> 🌐 CONTACT INFORMATIONs</h2>
 <ul>
-  <li><b>📞 Mobile 1:</b> 075 6774827</li>
-  <li><b>📞 Mobile 2:</b> 076 5292208</li>
-  <li><b>📧 Email:</b> <a href="mailto:kaushigihan@gmail.com">kaushigihan@gmail.com</a></li>
+  <li><b>Mobile 1:</b> 075 6774827</li>
+  <li><b>Mobile 2:</b> 076 5292208</li>
+  <li><b>Email:</b> <a href="mailto:kaushigihan@gmail.com">kaushigihan@gmail.com</a></li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/kaushika-rupasinghe-967021b2/" target="_blank">LinkedIn Profile</a></li>
   <li><b>GitHub:</b> <a href="https://github.com/KaushiML3" target="_blank">GitHub Profile</a></li>
   <li><b>Kaggle:</b> <a href="https://www.kaggle.com/kaushigihanml" target="_blank">Kaggle Profile</a></li>
