@@ -151,6 +151,18 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
   </tr>
 </table>
 
-#### Tranfer Learning - Vision Transformer:  
+#### Tranfer Learning - Vision Transformer: 
+
 - Vision Transformers (ViTs) are a type of neural network architecture designed primarily for processing images. Unlike traditional convolutional neural networks (CNNs), which process images in a hierarchical manner, ViTs apply self-attention mechanisms to capture global dependencies between image patches. This allows them to achieve strong performance on various computer vision tasks without relying on convolutional layers. ViTs have gained popularity for their ability to handle long-range dependencies effectively, making them suitable for tasks like image classification, object detection, and segmentation. The original Vision Transformer developed by Google. It divides images into patches, processes them as tokens, and applies transformer layers.This repository include how to fine tune the vision transformer model.
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Vision_Transformer_Transfer_Learning)
+
+
+### Natural Language Processing
+#### Simple NLP projects
+
+- **Language Detection:** A model that identifies the language of a given text, enabling automated localization and multilingual processing.
+- **Spam Message Detection:** A system that classifies messages as spam or not, helping to filter unwanted content and improve communication efficiency.
+- **Suspicious URL Detection:** A model that detects malicious or suspicious URLs, enhancing security by identifying potential phishing attempts or harmful websites.
+- **Obfuscated JavaScript Detection:** A tool to analyze and detect obfuscated JavaScript code, helping to identify potentially malicious scripts in web applications.
+
+<img src="assets/spam_language (1).gif" height="400">
