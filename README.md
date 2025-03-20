@@ -159,10 +159,20 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 ### Natural Language Processing
 #### Simple NLP projects
-
 - **Language Detection:** A model that identifies the language of a given text, enabling automated localization and multilingual processing.
 - **Spam Message Detection:** A system that classifies messages as spam or not, helping to filter unwanted content and improve communication efficiency.
 - **Suspicious URL Detection:** A model that detects malicious or suspicious URLs, enhancing security by identifying potential phishing attempts or harmful websites.
 - **Obfuscated JavaScript Detection:** A tool to analyze and detect obfuscated JavaScript code, helping to identify potentially malicious scripts in web applications.
 
+  
 <img src="assets/spam_language (1).gif" height="400">
+
+- **Github Repository:**[Click Here](https://github.com/KaushiML3/Simple-NLP-projects/tree/main)
+- **Hugging face space:**[Click Here](https://huggingface.co/spaces/KaushiGihan/simple_language_and_spam_message_detection)
+
+#### Transformer Language translation 
+-This repository contains a Transformer-based language translation model trained to translate Portuguese to English. The implementation follows a simplified approach using TensorFlow/Keras and includes a Jupyter Notebook demonstrating training on a small dataset for quick experimentation
+- **Github Repository:**[Click Here](https://github.com/KaushiML3/Transformer_Language-translation)
+
+### Audio and other
+#### Numerical audio authentication system Deep learning.
