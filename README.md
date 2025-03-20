@@ -1,4 +1,4 @@
-![image](assets/Gemini_Generated_Image_ts35xkts35xkts353.jpeg)
+![image](assets/backdrop2_pic.jpg)
 
 # ACADEMIC BACKGROUND
  * * *
