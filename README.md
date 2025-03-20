@@ -83,12 +83,10 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
       Using state-of-the-art deep learning models, the system accurately identifies individuals and behaviors, reducing safety risks and enabling timely interventions.
      <br><br>
      <b> Technologies Used:</b><br>
-     <br><br>
-     <b>  YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.</b><br>
+     YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning<br>
      <br><br>
      <b> Project Impact:</b><br>
-     <br><br>
-     <b>  Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.</b><br>
+     Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.<br>
      <br><br>
      <b> Demo project Github Repository:</b><a href="https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr" target="_blank">Click Here</a>
     </td>
