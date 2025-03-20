@@ -152,7 +152,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Suspicious URL Detection:** A model that detects malicious or suspicious URLs, enhancing security by identifying potential phishing attempts or harmful websites.
 - **Obfuscated JavaScript Detection:** A tool to analyze and detect obfuscated JavaScript code, helping to identify potentially malicious scripts in web applications.
 
-<img src="assets/spam_language (1).gif" height="400">
+<img src="assets/spam_language (1).gif" height="300">
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Simple-NLP-projects/tree/main)
 - **Hugging face space:**[Click Here](https://huggingface.co/spaces/KaushiGihan/simple_language_and_spam_message_detection)
@@ -167,7 +167,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 ### Numerical audio authentication system Deep learning.
 - This project implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
   
-<img src="assets/audio_auth (1).gif" height="400">
+<img src="assets/audio_auth (1).gif" height="300">
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning)
 
@@ -175,7 +175,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 ### Deepfake voice detection 
 - This project contains a machine learning-based system to detect deepfake (synthetic) voices. The system utilizes audio feature extraction techniques such as YAMNet and deep learning models (ANN, CNN, RNN) to differentiate between real and fake audio.
   
-<img src="assets/deepfake.gif" height="400">
+<img src="assets/deepfake.gif" height="300">
 
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet)
 - **Hugging face space:**[Click Here](https://huggingface.co/spaces/KaushiGihan/Deepfake_audio_detection_yamnet)
