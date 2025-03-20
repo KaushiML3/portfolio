@@ -72,15 +72,6 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
     
 ## **_Silverline IT | Training Machine Learning Engineer | 2023 Oct - 2024 Oct_**
 ### 	Children and Adults Detection for Safety Camera System | 2024 |
-- Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes spaces. Using state-of-the-art deep learning models, the system accurately identifies individuals and behaviors, reducing safety risks and enabling timely interventions.
-
-<img src="assets/collage_chidren.png" height="300">
-
-- **Technologies Used:** YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.
-- **Project Impact:** Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.
-- **Demo project Github Repository:** [Click Here](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
-
-
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
     <td width="50%" align="center">
@@ -93,6 +84,13 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
     </td>
   </tr>
 </table>
+
+- **Technologies Used:** YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning.
+- **Project Impact:** Designed and developed the detection model, ensuring high accuracy and real-time performance, improving child safety monitoring and parental awareness.
+- **Demo project Github Repository:** [Click Here](https://github.com/KaushiML3/Kids_and_Adults_detection-faster-RCNN_yolo_Detr)
+
+
+
 
 ### Sentiment Analysis & Automated Reply System for Shopping App |2024|
 - Developed an AI-powered sentiment analysis and automated reply system for a shopping app to enhance customer interaction and support. The system analyzes customer feedback in real time, classifies sentiments (positive, neutral, negative), and triggers automated responses based on sentiment categories. By leveraging a fine-tuned DistilBERT model, the system ensures high accuracy in understanding customer emotions and delivering relevant responses. This solution improves customer satisfaction, reduces response time, and optimizes customer engagement.
