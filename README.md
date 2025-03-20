@@ -207,3 +207,11 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
    
   </tr>
 </table>
+
+#### libfinder
+- libfinder is a simple Python package that helps check if a library is installed in your python jupyter environment.
+- **Github Repository:**[Click Here](https://github.com/KaushiML3/libfinder)
+
+#### AWS Elastic beanstalk _EC2_ECR-Demo
+- This repository contains the source code and deployment configuration for simple python app, a web-based platform for project management. The application is hosted on AWS, leveraging the power of cloud infrastructure for scalability, reliability, and performance
+- - **Github Repository:**[Click Here](https://github.com/KaushiML3/AWS_Elastic_beanstalk_EC2_ECR_Demo)
