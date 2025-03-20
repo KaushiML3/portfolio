@@ -212,3 +212,51 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 ### **AWS Elastic beanstalk _EC2_ECR-Demo**
 - This repository contains the source code and deployment configuration for simple python app, a web-based platform for project management. The application is hosted on AWS, leveraging the power of cloud infrastructure for scalability, reliability, and performance
 - - **Github Repository:**[Click Here](https://github.com/KaushiML3/AWS_Elastic_beanstalk_EC2_ECR_Demo)
+
+
+
+
+
+# Used Model and Architectures
+* * *
+
+<table>
+  <tr>
+    <th>Natural Language Processing</th>
+    <th>Computer Vision</th>
+    <th>Audio</th>
+    <th>Other</th>
+  </tr>
+  <tr>
+    <td>
+      • LSTM, BiLSTM, GRU <br>
+      • BERT, T5 <br>
+      • GPT, Llama <br>
+      • spaCy
+    </td>
+    <td>
+      • CNN 2D <br>
+      • VGG16 <br>
+      • ResNet50 <br>
+      • Vision Transformer <br>
+      • YOLO <br>
+      • DETR <br>
+      • Faster R-CNN <br>
+      • SSD
+    </td>
+    <td>
+      • YamNet <br>
+      • Wav2Vec <br>
+      • Whisper <br>
+      • Kaldi
+    </td>
+    <td>
+      • EasyOCR <br>
+      • Keras OCR <br>
+      • Tesseract OCR <br>
+      • Google Cloud Vision OCR <br>
+      • Amazon Textract
+    </td>
+  </tr>
+</table>
+
