@@ -175,17 +175,33 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 ### Audio and other
 #### Numerical audio authentication system Deep learning.
-- This repository implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
-
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
     <td width="75%" align="center">
       <img src="assets/audio_auth (1).gif" width="100%" alt="Safety Camera System">
     </td>
     <td width="25%" valign="top">
-              This repository implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
+              This project implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture.
      <br> </br>
      <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning" target="_blank">Click Here</a>
+    </td>
+
+   
+  </tr>
+</table>
+
+#### Deepfake voice detection  
+<table cellspacing="0" cellpadding="0"  border="0">
+  <tr>
+    <td width="75%" align="center">
+      <img src="assets/deepfake.gif" width="100%" alt="Safety Camera System">
+    </td>
+    <td width="25%" valign="top">
+              This repository contains a machine learning-based system to detect deepfake (synthetic) voices. The system utilizes audio feature extraction techniques such as YAMNet and deep learning models (ANN, CNN, RNN) to differentiate between real and fake audio.
+     <br> </br>
+     <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet" target="_blank">Click Here</a>
+     <br> </br>
+     <b>Hugging face Space:</b> <a href="https://huggingface.co/spaces/KaushiGihan/Deepfake_audio_detection_yamnet" target="_blank">Click Here</a>
     </td>
 
    
