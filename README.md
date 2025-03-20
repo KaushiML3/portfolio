@@ -13,7 +13,7 @@
 * * *
 
 **Associate Machine Learning Engineer @ SilverlineIT | 2024-Oct to Present** 
-- Developed the 94% accurate fire alarm detection system was developed for IoT hand band used by disabled workers in a factory.
+- Developed the 90% accurate fire alarm detection system was developed for IoT hand band used by disabled workers in a factory.
 - Developed automates bill data extraction and enables intelligent querying using AI.
 
 **Training Machine Learning Engineer @ SilverlineIT | 2023-Oct to 2024-Oct**
@@ -21,8 +21,8 @@
 - Big impacted to develop a sentiment analysis and automated reply to system for a shopping app.
   
 **Electronic and Telecommunication Assistant Engineer @ Browns Engineering & constructions (Pvt) Ltd | 2021 Mar -2022 Nov**
-- In my role, I am responsible for managing both active and passive operations within the Dialog Network Service, ensuring continuous, seamless service.| Dialog progect - Progect Mannager |
-- I managed the development and implementation of the fiber network in the Central and UVA regions, overseeing the planning, deployment, and optimization of infrastructure to enhance connectivity and network performance | Fiber progect - Assistant Engineer |
+- In my role, I am responsible for managing both active and passive operations within the Dialog Network Service, ensuring continuous, seamless service.| Dialog progect-Progect Mannager|
+- I managed the development and implementation of the fiber network in the Central and UVA regions, overseeing the planning, deployment, and optimization of infrastructure to enhance connectivity and network performance | Fiber progect-Assistant Engineer |
   
 **Assistan service Engineer @ Geoinformatics International (Pvt) Ltd | 2020 May-2021 Feb**
 - I work at a geo survey company where I am responsible for maintaining and servicing all electronic devices and electronic infrastructure. This includes ensuring the functionality, performance, and longevity of equipment used for various surveying and geospatial tasks
