@@ -74,10 +74,10 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 ### 	Children and Adults Detection for Safety Camera System | 2024 |
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
-    <td width="75%" align="center">
-      <img src="assets/collage_chidren.png" width="300" alt="Safety Camera System">
+    <td width="50%" align="center">
+      <img src="assets/collage_chidren.png" width="400" alt="Safety Camera System">
     </td>
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. 
       The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes, schools, and public spaces. 
       Using state-of-the-art deep learning models, the system accurately identifies individuals and behaviors, reducing safety risks and enabling timely interventions.
@@ -136,10 +136,10 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
-    <td width="50%" align="center">
+    <td width="75%" align="center">
       <img src="assets/sliglip.png" width="100%" alt="Safety Camera System">
     </td>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
               This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image                         classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
      <b> </b>
      <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main" target="_blank">Click Here</a>
