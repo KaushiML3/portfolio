@@ -21,7 +21,7 @@
 - Big impacted to develop a sentiment analysis and automated reply to system for a shopping app.
   
 **Electronic and Telecommunication Assistant Engineer @ Browns Engineering & constructions (Pvt) Ltd | 2021 Mar -2022 Nov**
-- In my role, I am responsible for managing both active and passive operations within the Dialog Network Service, ensuring continuous, seamless service.| Dialog progect-Progect Mannager|
+- In my role, I am responsible for managing both active and passive operations within the Dialog Network Service, ensuring continuous, seamless service.| Dialog progect-Regional Progect Mannager|
 - I managed the development and implementation of the fiber network in the Central and UVA regions, overseeing the planning, deployment, and optimization of infrastructure to enhance connectivity and network performance | Fiber progect-Assistant Engineer |
   
 **Assistan service Engineer @ Geoinformatics International (Pvt) Ltd | 2020 May-2021 Feb**
