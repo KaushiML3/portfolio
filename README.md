@@ -143,11 +143,10 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
     </td>
     <td width="50%" valign="top">
               This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image                         classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
+     <b> </b>
      <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main" target="_blank">Click Here</a>
     </td>
-    <td width="50%" valign="top">
-     <b>GitHub Repository:</b> <a href="https://github.com/KaushiML3/Cucumber-Leaf-Disease-Classification-CNN-VGG16-VIT/tree/main" target="_blank">Click Here</a>
-    </td>
+
    
   </tr>
 </table>
