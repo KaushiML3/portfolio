@@ -112,7 +112,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 - **Demo project Hugging face space:** [Click Here](https://huggingface.co/spaces/KaushiGihan/distilbert-base-uncased-sentiment_analysis_LLM)
     
 ## Personal and R&D projects
-## Computer vision 
+## 🔍 Computer vision 
 
 ### cucumber leaf diseases classification
 
@@ -153,7 +153,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Vision_Transformer_Transfer_Learning)
 
 
-## Natural Language Processing
+## 📖 Natural Language Processing
 ### Simple NLP projects
 - **Language Detection:** A model that identifies the language of a given text, enabling automated localization and multilingual processing.
 - **Spam Message Detection:** A system that classifies messages as spam or not, helping to filter unwanted content and improve communication efficiency.
@@ -171,7 +171,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 - **Github Repository:**[Click Here](https://github.com/KaushiML3/Transformer_Language-translation)
 
 
-## Audio and other
+## 🤖 Audio and other
 ### Numerical audio authentication system Deep learning.
 <table cellspacing="0" cellpadding="0"  border="0">
   <tr>
@@ -264,11 +264,11 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
 </table>
 
 
-<h2>📞 Contact Information</h2>
+<h2> 🌐 Contact Information</h2>
 <ul>
-  <li><b>Mobile 1:</b> 075 6774827</li>
-  <li><b>Mobile 2:</b> 076 5292208</li>
-  <li><b>Email:</b> <a href="mailto:kaushigihan@gmail.com">kaushigihan@gmail.com</a></li>
+  <li><b>📞 Mobile 1:</b> 075 6774827</li>
+  <li><b>📞 Mobile 2:</b> 076 5292208</li>
+  <li><b>📧 Email:</b> <a href="mailto:kaushigihan@gmail.com">kaushigihan@gmail.com</a></li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/kaushika-rupasinghe-967021b2/" target="_blank">LinkedIn Profile</a></li>
   <li><b>GitHub:</b> <a href="https://github.com/KaushiML3" target="_blank">GitHub Profile</a></li>
   <li><b>Kaggle:</b> <a href="https://www.kaggle.com/kaushigihanml" target="_blank">Kaggle Profile</a></li>
