@@ -142,8 +142,7 @@ Developed a custom architecture and fine-tuned VGG16, improving disease detectio
       <img src="assets/sliglip.png" width="100%" alt="Safety Camera System">
     </td>
     <td width="50%" valign="top">
-              This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image     classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
-
+              This repository implements an Image Multi-Label Classification model, which can identify multiple labels in a single image. Unlike traditional image                         classification, where an image is assigned a single category, multi-label classification allows an image to have multiple labels simultaneously.
     </td>
   </tr>
 </table>
