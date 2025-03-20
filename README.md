@@ -12,11 +12,11 @@
 # WORK EXPERIENCE
 * * *
 
-**Associate Machine Learning Engineer @ SilverlineIT | 2024-Oct to Present** 
+**Associate Machine Learning Engineer @ SilverlineIT | 2024-Oct - Present** 
 - Developed the 90% accurate fire alarm detection system was developed for IoT hand band used by disabled workers in a factory.
 - Developed automates bill data extraction and enables intelligent querying using AI.
 
-**Training Machine Learning Engineer @ SilverlineIT | 2023-Oct to 2024-Oct**
+**Training Machine Learning Engineer @ SilverlineIT | 2023-Oct - 2024-Oct**
 - Big impacted to develop a safety camera system that detects adults and children while analyzing children's behavior.
 - Big impacted to develop a sentiment analysis and automated reply to system for a shopping app.
   
