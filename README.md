@@ -79,7 +79,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
     </td>
     <td width="50%" valign="top">
       Developed an AI-powered safety camera system that detects adults and children in real-time while analyzing children's behavior. 
-      The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes, schools, and public spaces. 
+      The system enhances security by sending instant alerts to parents or guardians, ensuring proactive monitoring in homes spaces. 
       Using state-of-the-art deep learning models, the system accurately identifies individuals and behaviors, reducing safety risks and enabling timely interventions.<br>
      <b> Technologies Used:</b><br>
      YOLO, DETR, Faster R-CNN, SSD, Computer Vision, Deep Learning<br>
@@ -91,7 +91,7 @@ This end-to-end solution integrates deep learning and IoT to create a safer and 
 </table>
 
 ### Sentiment Analysis & Automated Reply System for Shopping App |2024|
-- Developed an AI-powered sentiment analysis and automated reply system for a shopping app to enhance customer interaction and support. The system analyzes customer feedback in real time, classifies sentiments (positive, neutral, negative), and triggers automated responses based on sentiment categories. By leveraging a fine-tuned DistilBERT model, the system ensures high accuracy in understanding customer emotions and delivering relevant responses. This solution improves customer satisfaction, reduces response time, and optimizes customer engagement.
+- Developed an AI-powered sentiment analysis and automated reply system for a shopping app to enhance customer interaction and support. The system analyzes customer feedback in real time, classifies sentiments (positive, negative), and triggers automated responses based on sentiment categories. By leveraging a fine-tuned DistilBERT model, the system ensures high accuracy in understanding customer emotions and delivering relevant responses. This solution improves customer satisfaction, reduces response time, and optimizes customer engagement.
 
 - **sentiment analysis DistilBERT model demo**
 <img src="assets/sentiment.gif" height="300">
